@@ -1,0 +1,4 @@
+pygame
+termcolor
+python-nmap
+pyttsx3
